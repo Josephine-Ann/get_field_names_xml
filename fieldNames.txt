@@ -1,0 +1,16 @@
+undefined
+description
+g:additional_image_link
+g:availability
+g:brand
+g:condition
+g:google_product_category
+g:id
+g:image_link
+g:price
+g:sale_price
+g:shipping
+g:shipping_weight
+link
+title
+g:sale_price_effective_date
